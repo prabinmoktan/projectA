@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Shopping bag base -->
+  <path d="M50 75 L60 140 Q60 150 70 150 L130 150 Q140 150 140 140 L150 75" 
+        fill="#000000" 
+        stroke="#a855f7" 
+        stroke-width="4"/>
+  
+  <!-- Bag top -->
+  <path d="M45 75 Q45 73 47 73 L153 73 Q155 73 155 75 L155 80 Q155 85 150 85 L50 85 Q45 85 45 80 Z" 
+        fill="#000000"
+        stroke="#9333ea"
+        stroke-width="2"/>
+  
+  <!-- Bag handles -->
+  <path d="M70 73 C70 50 85 45 100 45 C115 45 130 50 130 73" 
+        fill="none" 
+        stroke="#000000" 
+        stroke-width="8" 
+        stroke-linecap="round"/>
+  
+  <!-- Handle neon outline -->
+  <path d="M70 73 C70 50 85 45 100 45 C115 45 130 50 130 73" 
+        fill="none" 
+        stroke="#a855f7" 
+        stroke-width="2" 
+        stroke-linecap="round"
+        opacity="0.8"/>
+  
+  <!-- Shopping tag -->
+  <path d="M85 105 L115 105 L115 125 L100 135 L85 125 Z" 
+        fill="#000000" 
+        stroke="#c084fc" 
+        stroke-width="2"/>
+  
+  <!-- Dollar sign -->
+  <path d="M97 110 L103 110 M100 108 L100 128" 
+        stroke="#a855f7" 
+        stroke-width="3" 
+        stroke-linecap="round"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="75" cy="115" r="3" fill="#000000" stroke="#d8b4fe" stroke-width="1"/>
+  <circle cx="125" cy="115" r="3" fill="#000000" stroke="#d8b4fe" stroke-width="1"/>
+  
+  <!-- Subtle neon accents -->
+  <path d="M70 95 Q100 105 130 95" 
+        fill="none" 
+        stroke="#c084fc" 
+        stroke-width="2" 
+        stroke-linecap="round"
+        opacity="0.6"/>
+</svg>
